@@ -11,13 +11,6 @@ or Use this link- https://ricky2129.github.io/Microsoft_Future_Ready_Talent_Hunt
 <b> Project Overview : </b>
 The Online Bag Store is a web application developed as part of the Microsoft internship program. It aims to provide users with a seamless online shopping experience for bags of various styles and brands. The application allows users to browse through a catalog of bags, add items to their shopping cart, and securely place orders.
 
-  <b> Features : </b>
-- Deployment of the web application using Azure Static Web Apps
-- Accelerated content delivery and caching through Azure CDN
-- Global routing, load balancing, and SSL termination with Azure Front Door
-- Performance optimization for static assets
-- Improved user experience with reduced latency and faster page load times
-
  <b> Web Technologies used : </b> 
 * HTML 
 * CSS
@@ -42,4 +35,12 @@ By providing a well-organized online store with easy-to-use features, we aim to 
   It is a service that helps deliver content, such as images, videos, and static files, to end-users with improved performance and scalability. It caches content at edge locations worldwide, reducing latency and improving load times by serving content from the nearest server to the user's location.
 * Azure Front Door-
   It is a global, scalable entry point for web applications and APIs. It optimizes and secures the delivery of web content by intelligently routing user requests to the nearest available backend service.
+
+ <b> Features : </b>
+- Deployment of the web application using Azure Static Web Apps
+- Accelerated content delivery and caching through Azure CDN
+- Global routing, load balancing, and SSL termination with Azure Front Door
+- Performance optimization for static assets
+- Improved user experience with reduced latency and faster page load times
+
  
