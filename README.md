@@ -4,7 +4,7 @@
 Azure Link- https://orange-flower-0ee54d810.3.azurestaticapps.net/
 or Use this link- https://ricky2129.github.io/Microsoft_Future_Ready_Talent_Hunt/
 
-<b> Team Members : </b>
+<b> Project Contributors : </b>
 * Ricky Makhija
 * Shubhi Dixit
   
