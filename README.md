@@ -1,6 +1,6 @@
 # Online BAG Store
 
-<b> This is our Final Microsoft Future Ready Talent Hunt Project.</b> <br>
+<b> It is a Final Microsoft Future Ready Talent Hunt Project.</b> <br>
 Azure Link- https://orange-flower-0ee54d810.3.azurestaticapps.net/
 or Use this link- https://ricky2129.github.io/Microsoft_Future_Ready_Talent_Hunt/
 
@@ -35,6 +35,9 @@ By providing a well-organized online store with easy-to-use features, we aim to 
   It is a service that helps deliver content, such as images, videos, and static files, to end-users with improved performance and scalability. It caches content at edge locations worldwide, reducing latency and improving load times by serving content from the nearest server to the user's location.
 * Azure Front Door-
   It is a global, scalable entry point for web applications and APIs. It optimizes and secures the delivery of web content by intelligently routing user requests to the nearest available backend service.
+
+By combining these services, we created a setup where static web app is efficiently deployed, its content is delivered quickly to users globally through caching and CDN, and Azure Front Door further optimizes routing to ensure users have a smooth and responsive experience.
+
 
  <b> Features : </b>
 - Deployment of the web application using Azure Static Web Apps
