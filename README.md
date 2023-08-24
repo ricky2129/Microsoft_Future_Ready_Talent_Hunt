@@ -36,7 +36,9 @@ By providing a well-organized online store with easy-to-use features, we aim to 
 * Azure Front Door-
   It is a global, scalable entry point for web applications and APIs. It optimizes and secures the delivery of web content by intelligently routing user requests to the nearest available backend service.
 
- <b> Features : </b>
+  By combining these services, you create a setup where your static web app is efficiently deployed, its content is delivered quickly to users globally through caching and CDN, and Azure Front Door further optimizes routing to ensure users have a smooth and responsive experience.
+
+<b> Features : </b>
 - Deployment of the web application using Azure Static Web Apps
 - Accelerated content delivery and caching through Azure CDN
 - Global routing, load balancing, and SSL termination with Azure Front Door
