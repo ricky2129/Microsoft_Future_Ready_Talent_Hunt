@@ -1,6 +1,6 @@
 # Online BAG Store
 
-<b> It is a final Microsoft Future Ready Talent Hunt Project.</b> <br>
+<b> This is a final Microsoft Future Ready Talent Hunt Project.</b> <br>
 Azure Link- https://orange-flower-0ee54d810.3.azurestaticapps.net/
 or Use this link- https://ricky2129.github.io/Microsoft_Future_Ready_Talent_Hunt/
 
