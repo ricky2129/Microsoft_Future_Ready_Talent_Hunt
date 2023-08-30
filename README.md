@@ -18,7 +18,7 @@ The Online Bag Store is a web application developed as part of the Microsoft int
  <b> IDE : </b> 
 * VS-Code
 
-  <b> Industry : </b>
+ <b> Industry : </b>
 * Lifestyle
 
 <b> Problem Statement/ Opportunity : </b> 
