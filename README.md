@@ -40,23 +40,6 @@ By combining these services, you create a setup where your static web app is eff
 
 
 
-Static Web Apps-
-![image](https://github.com/Shubhiidixit/Microsoft-FRT-Project/assets/123651074/0bf54b3e-0132-49f8-9a03-9e9cda2780a0)
-
-
-Azure CDN-
-![image](https://github.com/Shubhiidixit/Microsoft-FRT-Project/assets/123651074/0f92c1a8-e99d-4e58-8649-da2623580f2e)
-
-
-Front Door-
-![image](https://github.com/Shubhiidixit/Microsoft-FRT-Project/assets/123651074/47a559a4-14ff-4e6d-8f06-a26b92464880)
-
-
-
-To access our website use https://white-ground-0550d7210.3.azurestaticapps.net in your web browser
-![image](https://github.com/Shubhiidixit/Microsoft-FRT-Project/assets/123651074/f1e6194b-d7d3-4384-9e2f-08e3b90f9528)
-
-
 
 <b> Features : </b>
 - Deployment of the web application using Azure Static Web Apps
