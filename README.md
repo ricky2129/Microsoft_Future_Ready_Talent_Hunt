@@ -40,6 +40,8 @@ By combining these services, you create a setup where your static web app is eff
 
 
 
+
+=======
 Static Web Apps-
 ![image](https://github.com/Shubhiidixit/Microsoft-FRT-Project/assets/123651074/0bf54b3e-0132-49f8-9a03-9e9cda2780a0)
 
@@ -55,6 +57,7 @@ Front Door-
 
 To access our website use https://white-ground-0550d7210.3.azurestaticapps.net in your web browser
 ![image](https://github.com/Shubhiidixit/Microsoft-FRT-Project/assets/123651074/f1e6194b-d7d3-4384-9e2f-08e3b90f9528)
+
 
 
 
